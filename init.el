@@ -35,6 +35,7 @@
   ;; build melpa packages for el-get
   (el-get-install 'package)
   (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
+               '("marmalade" . "http://marmalade-repo.org/packages/")
                            ("melpa" . "http://melpa.org/packages/")))
   (el-get-elpa-build-local-recipes))
 
@@ -71,9 +72,24 @@ FILENAME defaults to `buffer-file-name'."
 (el-get 'sync (mapcar 'el-get-source-name el-get-sources))
 
 (defvar ome-dir (file-name-directory (or load-file-name (buffer-file-name)))
-  "oh-my-emacs home directory.")
+  "~/.emacs.d")
+
+(setq elfeed-feeds
+      '("http://devblog.avdi.org"
+        "http://feeds.feedburner.com/RubyInside"
+        "http://dannorth.net"
+        "http://thepugautomatic.com"
+        "http://feeds.feedburner.com/rails-bestpractices"
+        "http://feeds.feedburner.com/andrzejkrzywda"
+        "http://www.hsbox.de/feed/"
+        "http://feeds.feedburner.com/RobbyOnRails"))
+
+
+(add-hook 'projectile-mode-hook 'projectile-rails-on)
+
 
 ;; load up the ome
 (org-babel-load-file (expand-file-name "ome.org" ome-dir))
+
 
 ;;; init.el ends here

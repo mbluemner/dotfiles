@@ -1,0 +1,82 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/mbluemner/Dropbox/Mampaey Design & Development/" . "org/")
+ ("/Users/mbluemner/Dropbox/" . "Mampaey Design & Development/")
+ ("/Users/" . "mbluemner/")
+ ("/Users/mbluemner/" . ".emacs.d/")
+ ("/Users/mbluemner/src/crm/app/controllers/" . "families/")
+ ("/Users/mbluemner/src/crm/app/" . "controllers/")
+ ("/Users/mbluemner/src/crm/" . "app/")
+ ("/Users/mbluemner/src/" . "crm/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/mbluemner/src/crm/"
+ "/Users/mbluemner/src/RefactorTrainerApp/"
+ "/Users/mbluemner/src/crm/app/"
+ "/Users/mbluemner/src/crm/app/models/"
+ "/Users/mbluemner/src/crm/app/controllers/"
+ "/Users/mbluemner/.emacs.d/"
+ "/Users/mbluemner/.org/"
+ "/Users/mbluemner/Dropbox/Mampaey Design & Development/org/"
+ "/Users/mbluemner/src/emacs/"
+ "/Users/mbluemner/src/crm/app/controllers/families/"
+)
+
+;; ----- ido-work-file-list -----
+(
+
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/mbluemner/src/crm/" (21637 13504 0 0) "vendor/" "tmp/" "spec/" "script/" "README.md" "Rakefile.helpers" "Rakefile" "public/" "Procfile" "private_pub.ru" "log/" "lib/" "Gemfile.lock" "Gemfile" "faye.sh" "dump.rdb" "doc/" "db/" "coverage/" "config.ru" "config/" "circle.yml" "Capfile" "bin/" "app/" ".rvmrc" ".ruby-gemset" ".rspec" ".pryrc" ".idea/" ".gitignore" ".git/" ".bundle/" "#.pryrc#" "../" "./")
+
+ ("/Users/mbluemner/" (21637 13343 0 0) "yankring_history_v2.txt" "VirtualBox VMs/" "tower/" "themes/" "tat/" "src/" "site.retry" "setup.retry" "Public/" "powerline-fonts/" "Pictures/" "path/" "oh-my-emacs/" "Music/" "Movies/" "Library/" "itg.zsh-theme/" "Google Drive/" "golem/" "git-credential-osxkeychain" "floobits/" "Dropbox/" "Downloads/" "Documents/" "Docker/" "devops/" "Desktop/" "demo-site.retry" "colour-schemes/" "Calibre-Bibliothek/" "Applications/" "antigen.zsh" "aliases.zsh" "alf/" ".zshrc_BACKUP" ".zshrc.zni" ".zshrc.pre-oh-my-zsh" ".zshrc.backup" ".zshrc-e" ".zshrc" ".zshenv_BACKUP" ".zshenv.backup" ".zsh_history" ".zsh_favlist" ".zsh.prompts/" ".zsh.before/" ".zsh.after/" ".zsh-update" ".zsh-fuzzy-match/" ".zprofile.backup" ".zprofile" ".zpreztorc.backup" ".zpreztorc" ".zprezto/" ".zlogout.backup" ".zlogout" ".zlogin.backup" ".zlogin" ".zhistory" ".zcompdump-rocknrollmarc-5.0.7" ".zcompdump-rocknrollmarc-5.0.5" ".zcompdump-CARE-NB-0024-5.0.7" ".zcompdump-CARE-NB-0024-5.0.5" ".zcompcache/" ".z" ".yankring-history_v2.txt" ".yadr/" ".vimrc" ".viminfz.tmp" ".viminfo" ".vim.backup/" ".vim/" ".vagrant.d/" ".Trash/" ".tmux.conf" ".subversion/" ".ssh/" ".scripts/" ".rvm/" ".rdebugrc" ".rbenv/" ".pythonhist" ".pryrc.backup" ".pryrc" ".pry_history" ".profile" ".pip/" ".org/" ".oh-my-zsh/" ".nvimlog" ".npm/" ".NERDTreeBookmarks" ".lesshst" ".irbrc" ".irb-history" ".ipython/" ".inputrc" ".idlerc/" ".histfile" ".guard_history" ".grunt-init/" ".gitignore_global" ".gitignore.backup" ".gitignore" ".gitconfig.backup" ".gitconfig" ".git-credentials" ".gemrc.backup" ".gemrc" ".gem/" ".floorc.json" ".fasd-init-cache" ".fasd-init-bash" ".fasd" ".emacs24.d/" ".emacs.d/" ".elfeed/" ".editrc" ".DS_Store" ".dropbox/" ".ctags" ".config/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".boot2docker/" ".BitchX/" ".bin/" ".bashrc" ".bash_profile" ".bash_history" ".atom/" ".asciinema/" ".aprc" ".antigen/" ".ansible/" ".android/" ".alf/" "../" "./")
+
+ ("/Users/mbluemner/.emacs.d/" (21637 13135 0 0) "var/" "url/" "README.org" "projectile.cache" "projectile-bookmarks.eld" "ome.org" "ome.el" "ome-publish.org" "ome-el-get-recipes/" "modules/" "Makefile" "LICENSE.txt" "init.el" "ido.last~" "ido.last" "gtd/" "eshell/" "elpa/" "el-get/" "custom.el~" "custom.el" "core/" "CONTRIBUTING.org" "CHANGELOG.org" "auto-save-list/" "ac-comphist.dat" ".saved-places" ".recentf~" ".recentf" ".gitignore" ".git/" ".DS_Store" "#custom.el#" "../" "./")
+
+ ("/Users/mbluemner/.emacs.d/modules/" (21637 13688 0 0) "ome-web.org" "ome-web.el" "ome-tex.org" "ome-tex.el" "ome-sml.org" "ome-sml.el" "ome-shell.el" "ome-scheme.org" "ome-scheme.el" "ome-ruby.org" "ome-ruby.el~" "ome-ruby.el" "ome-python.org" "ome-python.el" "ome-php.org" "ome-ocaml.org" "ome-ocaml.el" "ome-javascript.org" "ome-java.org" "ome-java.el" "ome-haskell.org" "ome-haskell.el" "ome-experimental.org" "ome-emacs-lisp.org" "ome-emacs-lisp.el" "ome-common-lisp.org" "ome-common-lisp.el" "ome-clojure.org" "ome-clojure.el" "ome-cc.org" "ome-cc.el" ".#ome-ruby.el" "../" "./")
+
+ ("/Users/mbluemner/.emacs.d/el-get/rinari/" (21637 11557 0 0) "util/" "TODO" "test/" "rinari.el" "README" "Rakefile" "Gemfile" "doc/" "COPYING" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/mbluemner/src/RefactorTrainerApp/Fearless/config/" (21636 44393 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb~" "application.rb" "../" "./")
+
+ ("/Users/mbluemner/src/RefactorTrainerApp/" (21626 6807 0 0) "Fearless/" "../" "./")
+
+ ("/Users/mbluemner/src/crm/config/" (21632 17995 0 0) "workflow1.xml" "workflow.xsd" "test_workflow.xml" "template.xsd" "sipgate.yml" "schedule.rb" "routes.rb" "resque_scheduler.yml" "resque.yml" "private_pub.yml" "newrelic.yml" "mini_workflow.xml" "mailman.yml" "locales/" "initializers/" "i18n-tasks.yml" "i18n-js.yml" "export_operations.yml" "environments/" "environment.rb" "deploy.rb" "deploy/" "database.yml.example" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/mbluemner/src/crm/app/models/" (21635 17907 0 0) "work_log.rb" "watch_list_item.rb" "user_status.rb" "user_profile.rb" "user_permission.rb" "user.rb" "upload.rb" "ticket_type_field_set.rb" "ticket_type_field_condition_set.rb" "ticket_type_field_condition.rb" "ticket_type_field.rb" "ticket_type.rb" "ticket_status.rb" "ticket_service.rb" "ticket_nursing_home.rb" "ticket_field.rb" "ticket_attachment.rb" "ticket.rb" "suggestion.rb" "source.rb" "sortable_image.rb" "slug.rb" "search.rb" "post.rb" "person_nursing_home_mapping.rb" "person.rb" "operating_company_type.rb" "nursing_home_type_mapping.rb" "nursing_home_type.rb" "nursing_home_email_profile.rb" "nursing_home_country.rb" "nursing_home.rb" "nursing_home/" "notification.rb" "message_template.rb" "message_attachment.rb" "message.rb" "message/" "member_type.rb" "meeting_log.rb" "lookup_base.rb" "log.rb" "institution_message_templates_nursing_home.rb" "institution_message_template.rb" "image.rb" "hotline_request_source.rb" "hotline_request_reason.rb" "hotline_request_need.rb" "hotline_request.rb" "group.rb" "flow.rb" "file_link.rb" "family.rb" "facility_mapping.rb" "facility.rb" "export_rule.rb" "export.rb" "emailfilter_blacklist.rb" "email_address.rb" "disease.rb" "directory.rb" "data_export.rb" "data_export/" "contact_type.rb" "contact_data.rb" "contact_channel.rb" "contact_chanel_entry.rb" "contact.rb" "concern.rb" "comment.rb" "call_log_datum.rb" "call_log.rb" "break_log.rb" "ability.rb" ".gitkeep" ".#post.rb" ".#hotline_request.rb" ".#comment.rb" "#post.rb#" "#hotline_request.rb#" "#comment.rb#" "../" "./")
+
+ ("/Users/mbluemner/src/crm/app/controllers/" (21635 4340 0 0) "work_logs_controller.rb" "widgets/" "users_controller.rb" "user_profile_controller.rb" "user_permissions_controller.rb" "tickets_controller.rb" "tickets/" "ticket_types_controller.rb" "ticket_statuses_controller.rb" "ticket_states_controller.rb" "ticket_services_controller.rb" "sources_controller.rb" "sessions_controller.rb" "search_controller.rb" "reports_controller.rb" "posts_controller.rb" "nursing_homes_controller.rb" "nursing_home_email_profiles_controller.rb" "notifications_controller.rb" "no_groups_controller.rb" "messages_controller.rb" "messages/" "message_templates_controller.rb" "meeting_logs_controller.rb" "logs_controller.rb" "institution_message_templates_controller.rb" "hotline_requests_controller.rb" "groups_controller.rb" "groups/" "flows_controller.rb" "families_controller.rb" "families/" "exports_controller.rb" "emailfilter_blacklists_controller.rb" "directories_controller.rb" "data_exports_controller.rb" "dashboard_controller.rb" "contact_chanel_entries_controller.rb" "comments_controller.rb" "call_logs_controller.rb" "break_logs_controller.rb" "attachments_controller.rb" "application_controller.rb" ".#meeting_logs_controller.rb" "#posts_controller.rb#" "#meeting_logs_controller.rb#" "#hotline_requests_controller.rb#" "../" "./")
+
+ ("/Users/mbluemner/.org/" (21634 60046 0 0) ".#newgtd.org" "#newgtd.org#" "../" "./")
+
+ ("/Users/mbluemner/src/emacs/" (21634 17999 0 0) "test.org~" "test.org" "OrgTutorial.org~" "OrgTutorial.org" "GTD.org~" "GTD.org" "crm.org~" "crm.org" "#test.org#" "../" "./")
+
+ ("/Users/mbluemner/Dropbox/Mampaey Design & Development/org/" (21632 55096 0 0) "../" "./")
+
+ ("/Users/mbluemner/Dropbox/Mampaey Design & Development/" (21634 17035 0 0) "WZInternet_TexteII.txt" "WZInternet_TexteII.rtf" "WZ_Texte_App.doc" "WZ_Texte_App (Marc Bluemner's conflicted copy 2013-12-22).doc" "WZ-kommtBaldBANNER.png" "WZ-kommtBaldBANNER.jpg" "WeisserZauberIphoneApp.zip" "Weisserzauber/" "vimirc.vim" "vi-vim-tutorial-gif.zip" "vi-vim-tutorial-gif/" "usersettings" "The_Well-Grounded_Ru.mobi" "The RSpec Book.pdf" "The Cucumber Book.pdf" "Test-Driven Development with Python.pdf" "Rosenkranz_2006-05-23(2).pdf" "Python for Unix and Linux System Administration.pdf" "Python for Unix and Linux System Administration (1).pdf" "PySide GUI Application Development.pdf" "Programming Ruby 1.9 &amp; 2.0, 4th edition.pdf" "Programming in Python 3, 2nd Edition.pdf" "Pragmatic Guide to Sass.pdf" "Pragmatic Guide to JavaScript.pdf" "Practical Programming.pdf" "Practical Programming, 2nd Edition.pdf" "Photos/" "org/" "OF-TaskActions.alfredworkflow" "Neuer Ordner/" "MongoDB-manual.pdf" "MongoDB and Python.pdf" "Mastering Object-oriented Python.pdf" "marc101.jpg" "Maker.Media.Make.Analog.Synthesizers.1449345220.pdf" "mailman.yml" "Learn Python the Hard Way, 3rd Edition.pdf" "jqapi.air" "iOS_Team_Provisioning_Profile_.mobileprovision" "Icon
+" "exceptional-ruby.zip" "exceptional-ruby/" "distribution.p12" "developing_backbone.js_applications.pdf" "Data Science at the Command Line.pdf" "Crafting Rails 4 Applications.pdf" "CoffeeScript.pdf" "closure_the_definitive_guide.pdf" "building_node_applications_with_mongodb_and_backbone.pdf" "Build Awesome Command-Line Applications in Ruby.pdf" "Banner/" "apps.p12" "AlfredTweet-2.alfredworkflow" "Alfred.alfredpreferences/" "Agile Web Development with Rails, 4th Edition.pdf" "528646_10151829353586494_1730661289_n.jpg" "39817_420651096493_4809332_n.jpg" "1Password.agilekeychain/" ".DS_Store" ".dropbox" "----- BEGIN LICENSE -----" "../" "./")
+
+ ("/Users/mbluemner/Dropbox/" (21633 28377 0 0) "Web Care/" "Mampaey Design & Development/" "Kamera-Uploads/" "Icon
+" "Bildschirmfoto 2014-12-02 um 14.02.20.png" "Austausch Tim/" ".ws.agile.1Password.settings" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/" (21629 34364 0 0) "Shared/" "mbluemner/" "itsupportwebcarelbjgmbh/" "Guest/" "dev/" ".localized" "../" "./")
+
+ ("/Users/mbluemner/src/crm/app/controllers/groups/" (21621 41490 0 0) "users_controller.rb" "../" "./")
+
+ ("/Users/mbluemner/src/crm/app/controllers/families/" (21632 17995 0 0) "versions_controller.rb" "tickets_controller.rb" "messages_controller.rb" "contacts_controller.rb" "comments_controller.rb" "../" "./")
+
+ ("/Users/mbluemner/src/crm/app/" (21631 10827 0 0) "views/" "validators/" "uploaders/" "services/" "models/" "mailers/" "inputs/" "helpers/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/mbluemner/.emacs.d/el-get/" (21633 30305 0 0) "yasnippet/" "yascroll/" "yard-mode/" "yaml-mode/" "xml-rpc/" "xcscope/" "wikipedia-mode/" "web-mode/" "undo-tree/" "twittering-mode/" "textmate/" "swank-js/" "sqlite/" "solarized-emacs/" "smartparens/" "slim-mode/" "scss-mode/" "sass-mode/" "s/" "rvm/" "ruby-refactor/" "rubocop/" "rspec-mode/" "rope/" "robe-mode/" "rhtml-mode/" "request/" "rcodetools/" "rbenv/" "rainbow-mode/" "rainbow-delimiters/" "quickrun/" "pyvenv/" "python-environment/" "puppet-mode/" "pry/" "projectile-rails/" "projectile/" "popup/" "pkg-info/" "pcache/" "package/" "org-mode/" "nose/" "multiple-cursors/" "multi-term/" "minimap/" "markdown-mode/" "magit/" "logito/" "linum-relative/" "jump/" "jedi/" "inflections/" "inf-ruby/" "iedit/" "idomenu/" "htmlize/" "html-to-markdown/" "highlight-indentation/" "hexrgb/" "helm-descbinds/" "helm-dash/" "helm/" "haml-mode/" "ham-mode/" "goto-chg/" "gmail-message-mode/" "git-modes/" "git-gutter-fringe/" "git-gutter/" "gh/" "fuzzy/" "fringe-helper/" "flycheck/" "findr/" "find-file-in-project/" "fill-column-indicator/" "feature-mode/" "f/" "expand-region/" "exec-path-from-shell/" "evil-surround/" "evil-rails/" "evil-leader/" "evil-indent-textobject/" "evil/" "epl/" "epc/" "emacs-powerline/" "emacs-jabber/" "elpy/" "elisp-slime-nav/" "elfeed/" "el-get/" "diminish/" "deferred/" "dash-at-point/" "dash/" "ctable/" "coffee-mode/" "cmake-mode/" "clojure-mode/" "cl-lib/" "chruby/" "bundler/" "auto-complete-clang/" "auto-complete/" "ansi-color/" "ag/" "ack-and-a-half/" "ace-jump-mode/" ".status.el" ".loaddefs.el~" ".loaddefs.elc" ".loaddefs.el" "../" "./")
+
+ ("/Users/mbluemner/src/" (21633 29143 0 0) "youtube-dl/" "WebCarePlaybooks/" "webcareDevWorkstation/" "virtus-typhoeus-api-demo/" "virtus/" "vcr/" "testsystem/" "testgen/" "socializer/" "scaffold/" "ruby_scripts/" "rocknrollMarc.github.io/" "RefactorTrainerApp/" "redmine/" "rails-4-1-rspec-3-0/" "python/" "pretty_face/" "powerline-fonts/" "pflege_cms/" "osx-workstation-playbooks/" "OOP/" "naught/" "methadone/" "macbook-playbook/" "lobste/" "formulaic/" "fig_newton/" "exp/" "emacs/" "dotfiles/" "docker-selenium-xvfb/" "docker-selenium-hub-phantomjs/" "devops/" "data_magic/" "cucumberator/" "cucumber_factory/" "crm/" "chili/" "capybara_sauce/" "capybara_email/" "capybara-repl/" "capybara-page-object/" "capybara-extensions/" "bones/" "blogo/" "blog/" "ask_the_experts/" "ansible/" "alf/" "360-player/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
